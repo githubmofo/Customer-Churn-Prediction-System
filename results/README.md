@@ -1,8 +1,8 @@
-\## 📊 Results
+## 📊 Results
 
 
 
-\### Model Performance
+### Model Performance
 
 
 
@@ -20,11 +20,7 @@
 
 
 
-\---
 
-
-
-\### 📈 Visualizations
 
 
 
