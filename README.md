@@ -170,7 +170,16 @@ This project successfully demonstrates the use of machine learning techniques to
 * Standard Data Science Practices
 
 ---
+## 🖥️ Platform
 
+- Python 3.x
+- Google Colab / Jupyter Notebook / VS Code
+- Operating System: Windows / Linux / Mac
+
+## ⚙️ Environment
+- Language: Python
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 ## **👨‍💻 Author**
 
+---
 By Jenish Lad
