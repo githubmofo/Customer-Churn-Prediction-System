@@ -171,6 +171,6 @@ This project successfully demonstrates the use of machine learning techniques to
 
 ---
 
-## **👨‍💻 Author
+## **👨‍💻 Author**
 
 By Jenish Lad
